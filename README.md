@@ -4,7 +4,7 @@
 ## 📷 Preview
 
 <p align="center">
-  <img src="images/demo.png" width="800">
+  <img src="demo.png" width="800">
 </p>
   
 </p>
